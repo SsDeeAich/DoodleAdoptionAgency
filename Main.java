@@ -9,7 +9,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         
         Dood[] doods = new Dood[] {
-            new Dood("Pixel", 29.99, 1, "Black", "Mini", 2022), 
+            new Dood("Pixel", 29.99, 0, "Black", "Mini", 2022), 
             new Dood ("Jamie", 49.98, 1, "Brown", "Large", 2020), 
             new Dood ("Cypress", 65.78, 1, "Golden", "Mini", 2018)
         };
